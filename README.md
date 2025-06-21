@@ -22,7 +22,7 @@ A simple React-based chat application with support for OpenAI chat completions a
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/ChatAI.git
+   git clone https://github.com/mvicsa/ChatAI.git
    cd ChatAI
    ```
 
